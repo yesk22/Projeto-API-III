@@ -2,4 +2,4 @@
 *negrito*
 ~~riscado~~
 _**misturado**_ 
-![imagem] [.\\logistica.jpg)
+<img src="./logistica.jpg" width="30%" height="30%">
