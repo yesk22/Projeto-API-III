@@ -2,4 +2,4 @@
 *negrito*
 ~~riscado~~
 _**misturado**_ 
-![imagem]([logistica.jpg)
+![imagem] [logistica.jpg)
