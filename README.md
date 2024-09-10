@@ -39,7 +39,7 @@ falta adicionar
 
 > Swot
 
-falta adicionar
+![image](Circle Infographic Diagram SWOT Analysis.png)
 
 # Autores
 
