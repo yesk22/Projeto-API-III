@@ -23,7 +23,7 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 # Empresa
 > Logo
 
-![image](falta adicionar)
+![image](logo2.png)
 
 > Missão
 
