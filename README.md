@@ -44,6 +44,9 @@ falta adicionar
       <img src="./Circle Infographic Diagram SWOT Analysis.png" width="80%" height="80%">
 <p align="center">  
 
+> Organigrama
+![image](equipe.jpeg)
+
 # Autores
 
 |    Função       |       Nome           |                                                                                                                                                          Contato                                                                                                                                                          |
