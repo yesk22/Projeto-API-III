@@ -27,15 +27,19 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 
 > Missão
 
-falta adicionar
+Garantir a excelência na entrega de produtos e serviços financeiros, atuando com eficiência e transparência para que os nossos clientes se destaquem.
 
 > Visão
 
-falta adicionar
+Ser uma empresa visionária, buscando constantemente inovação e tecnologia.
 
 > Valores
 
-falta adicionar
+Comprometimento
+Criatividade
+Sustentabilidade
+Ética
+Inovação
 
 > Swot
 
