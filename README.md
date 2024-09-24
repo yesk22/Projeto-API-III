@@ -103,11 +103,87 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg" width="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/320px-Sql_data_base_with_logo.png" width="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" />
-
                                                                      
-
-
 ## Linguagens de programação utilizadas
 <img src="https://seeklogo.com/images/D/DAX-logo-6E87145B0D-seeklogo.com.png" width="100" />
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=256" width="100" />
 <img src="https://e7.pngegg.com/pngimages/963/116/png-clipart-markdown-logo-icons-logos-emojis-tech-companies.png" width="100" />
+
+# Backlog do produto
+
+## Sprint 1. Concepção
+- [x] Estruturação do github 
+- [x] Documentação github 
+- [x] Estruturação do jira
+- [x] Logotipo 
+- [x] Missão, visão e valores
+- [x] Análise SWOT 
+- [x] Levantamento de dados 
+- [x] Tratamento de dados 
+- [x] Aprendizado 
+- [x] Power bi 
+- [x] Python
+- [x] Github Defina o propósito do template
+- [ ] Criação do vídeo
+- [ ] Finalize e aprovação.
+
+## Sprint 2. Desenvolvimento do Projeto
+- [ ] Documento passo a passo;
+- [ ] Vídeo passo a passo;
+- [ ] Treinamento com os professores;
+- [ ] Treinamento com os alunos;
+- [ ] Monitoramento e ajustes.
+      
+## Sprint 3 . Implementação
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+      
+## Sprint 4. Operacionalização
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+
+
+  
+# Competências desenvolvidas
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+ 
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades          | Classificação            |
+|----------------------|--------------------------|
+| Adaptabilidade       | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade         | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Entrega de Resultados| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
