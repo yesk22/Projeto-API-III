@@ -128,10 +128,10 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
+- [ ] Estudar métodos de transporte 
+- [ ] Estruturar a relação de dados n Powe bi 
+- [ ] Produtividade mensal dos veículos 
+- [ ] Mapeamento de rotas
 - [ ] Monitoramento e ajustes.
       
 ## Sprint 3 . Implementação
