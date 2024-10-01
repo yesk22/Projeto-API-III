@@ -111,7 +111,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 # Backlog do produto
 
-## Sprint 1. Concepção
+## Sprint 0.
 - [x] Estruturação do github 
 - [x] Documentação github 
 - [x] Estruturação do jira
@@ -127,14 +127,14 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Criação do vídeo
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
+## Sprint 1.
 - [ ] Estudar métodos de transporte 
 - [ ] Estruturar a relação de dados n Powe bi 
 - [ ] Produtividade mensal dos veículos 
 - [ ] Mapeamento de rotas
 - [ ] Monitoramento e ajustes.
       
-## Sprint 3 . Implementação
+## Sprint 2.
 - [x] Criação e modelagem do banco de dados 
 - [ ] Estrutura banco de dados 
 - [ ] Base SQL
@@ -143,7 +143,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
-## Sprint 4. Operacionalização
+## Sprint 3.
 - [ ] 
 - [ ] 
 - [ ] Criação do vídeo;
