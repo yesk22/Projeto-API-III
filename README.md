@@ -149,9 +149,9 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-# MVP 1°Sprint (Minimum Viable Product)
+# MVP 0°Sprint (Minimum Viable Product)
 
-Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente forneceu, criamos o jira e o github.
+Nosso MVP da 0°Sprint é a geração a estrutura do que nos vamos fazer, criamos o jira e o github.
 
 [**Link Vídeo MVP**](https://fatecspgov-my.sharepoint.com/:v:/r/personal/cleocirene_fonseca_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Projeto-API-III_README.md%20at%20main%20%C2%B7%20yesk22_Projeto-API-III%20-%20Google%20Chrome%202024-10-01%2011-32-11.mp4?csf=1&web=1&e=RYnynS)
 
