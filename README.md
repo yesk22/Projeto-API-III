@@ -129,25 +129,37 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 ## Sprint 1.
 - [ ] Estudar métodos de transporte 
-- [ ] Estruturar a relação de dados n Powe bi 
-- [ ] Produtividade mensal dos veículos 
-- [ ] Mapeamento de rotas
-- [ ] Monitoramento e ajustes.
+- [ ] Mapeamento de rotas 
+- [ ] Gerar planilha para visualização do cliente
+- [ ] Fazer vídeo 
+- [ ] Relatório
       
 ## Sprint 2.
-- [x] Criação e modelagem do banco de dados 
-- [ ] Estrutura banco de dados 
-- [ ] Base SQL
-- [ ] Rotas usadas 
-- [ ] Visão geral das atividades de cada veículo
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Tratar os dados do cliente em Python
+- [ ] Estruturar a relação de dados no Power BI 
+- [ ] Entrega dos indicadores
+- [ ] Power BI que mostra a produtividade mensal dos veículos
+- [ ] Power BI com evolução dos custos por km de cada rota filtrando por fábrica 
+- [ ] Power BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábrica 
+- [ ] Agregar os dados de produtividade para representar a atividade mensal de todos os veículos 
+- [ ] Gráfico ou tabela que destaque as variações da atividade ao longo dos meses
+- [ ] Estatística do Lead Time
+- [ ] Vídeo 
+- [ ] Relatório
       
 ## Sprint 3.
-- [ ] 
-- [ ] 
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Maximização dos lucros 
+- [ ] Criação e modelagem de banco de dados do SQL
+- [ ] Estrutura do banco de dados
+- [ ] Integração da base de dados SQL E Power BI
+- [ ] Rotas mais usadas (como será medido, mensal ou diário)
+- [ ] Visão Geral das atividades de cada veículo
+- [ ] Aplicação do Método de Transportes e Otimização em Python
+- [ ] Documentação do código de Python
+- [ ] Visualizações Gráficos dos resultados
+- [ ] Vídeo 
+- [ ] Relatório
+
 
 # MVP 0°Sprint (Minimum Viable Product)
 
