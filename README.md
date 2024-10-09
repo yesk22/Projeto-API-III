@@ -60,7 +60,7 @@ Inovação
 | Team Member     |    José Augusto     |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-augusto-1814131a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  |
 | Team Member     |    Patrícia Viana      |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katia-patr%C3%ADcia-viana-171514244/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  |
 | Team Member     |   Miriã Rodrigues    |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miri%C3%A3-rodrigues-martins-chaves-9573b51a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| Team Member     |    Yesenia Ruiz   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-2b5039209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+| Team Member     |    Yesenia Ruiz   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kassandra-ruiz-100591204/) 
 
 ##
 
