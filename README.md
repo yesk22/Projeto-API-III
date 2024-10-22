@@ -128,21 +128,23 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Finalize e aprovação.
 
 ## Sprint 1.
-- [ ] Estudar métodos de transporte 
-- [ ] Mapeamento de rotas 
-- [ ] Gerar planilha para visualização do cliente
-- [ ] Fazer vídeo 
-- [ ] Relatório
-      
+- [x] Estudar Método De Transporte
+- [x] Estruturar a relação de dados no Power Bi
+- [x] Produtividade Mensal Dos Veículos
+- [x] Entrega De Indicadores
+- [x] Mapeamento de rotas
+- [x] Indicador de evolução dos custos por KM de cada rota filtrando por fábrica
+- [x] Indicador de evolução dos custos por unidade transportada de cada rota, filtrando por fábrica
+- [x] Dashboard de análise de produtividade de veículos, otimização de produção e custo de rotas
+- [x] Indicador de custo do frete por unidade de transporte e soma de produtividade
+- [x] Mapeamento de rotas por fábricas e clientes por latitude e longitude
+- [x] Tratar dados em python
+- [x] Relatório
+- [x] Video
+
 ## Sprint 2.
-- [x] Tratar os dados do cliente em Python
-- [ ] Estruturar a relação de dados no Power BI 
-- [ ] Entrega dos indicadores
-- [ ] Power BI que mostra a produtividade mensal dos veículos
-- [ ] Power BI com evolução dos custos por km de cada rota filtrando por fábrica 
-- [ ] Power BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábrica 
-- [ ] Agregar os dados de produtividade para representar a atividade mensal de todos os veículos 
-- [ ] Gráfico ou tabela que destaque as variações da atividade ao longo dos meses
+- [ ] Criação e modelagem de um banco de dados em SQL
+- [ ] Relação de dados sql em power Bl
 - [ ] Estatística do Lead Time
 - [ ] Vídeo 
 - [ ] Relatório
