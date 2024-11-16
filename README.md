@@ -178,6 +178,12 @@ Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente
 [**Link Vídeo MVP**](https://fatecspgov-my.sharepoint.com/:v:/g/personal/cleocirene_fonseca_fatec_sp_gov_br/EQ7hmFMFdOZNmLGMVkgEf1kBQaPFnntESBMZavOP65pvMg?e=hihk1J)
 
 [**Link Vídeo MVP**](https://fatecspgov-my.sharepoint.com/:v:/g/personal/edson_guimaraes_fatec_sp_gov_br/Eaz42O-NPDNBnJaGCpf-l-UB61eWZnpOznF5vRgYdrb-hA?e=fDZQk4)
+
+# MVP 2°Sprint (Minimum Viable Product)
+
+Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores negociados com o cliente, de modo a Dashboard ser dinâmica e de fácil uso do cliente.
+
+[**Link Vídeo MVP**](https://fatecspgov-my.sharepoint.com/:v:/g/personal/cleocirene_fonseca_fatec_sp_gov_br/EYxYWa-rxDhFmADJWf0BONwB6-x8BynlxS-PpCBH8_qbkA?e=NV7FM0)
   
 # Competências desenvolvidas
 
@@ -202,8 +208,8 @@ Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente
 
 | Habilidades          | Classificação            |
 |----------------------|--------------------------|
-| Adaptabilidade       | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade       | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração          | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Comunicação          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Proatividade         | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
