@@ -143,32 +143,32 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [x] Video
 
 ## Sprint 2.
-- [ ]tratamento de dados no Power BI (rotas final) 
-- [ ]conversión de dados ao formato correto, colunas agregadas e índice para cada cliente
-- [ ]Tratamento de dados no Excel para cada cliente e fábrica
-- [ ]Cálculo dos custos médios para cada fábrica e cliente
-- [ ]Formato em python para a otimização
-- [ ]Cálculo de cada xj
-- [ ]Restrições de capacidade 
-- [ ]Restrições de demanda
-- [ ]Tratamento de dados em MySql
-- [ ]Correção de datas
-- [ ]Correção FOB/CIF
-- [ ]Correção de capacidade transp veículos p12 e p24 
-- [ ]Conexão de banco de dados ao BI
-- [ ]fórmula pra calcular lead time
-- [ ]Atualização do Github 
-- [ ]Documentação no Github
+- [x] tratamento de dados no Power BI (rotas final) 
+- [x] conversión de dados ao formato correto, colunas agregadas e índice para cada cliente
+- [x] Tratamento de dados no Excel para cada cliente e fábrica
+- [ ] Cálculo dos custos médios para cada fábrica e cliente
+- [ ] Formato em python para a otimização
+- [ ] Cálculo de cada xj
+- [ ] Restrições de capacidade 
+- [ ] Restrições de demanda
+- [ ] Tratamento de dados em MySql
+- [ ] Correção de datas
+- [ ] Correção FOB/CIF
+- [ ] Correção de capacidade transp veículos p12 e p24 
+- [ ] Conexão de banco de dados ao BI
+- [ ] fórmula pra calcular lead time
+- [ ] Atualização do Github 
+- [ ] Documentação no Github
 - [ ] Vídeo 
 - [ ] Relatório
       
 ## Sprint 3.
-- [ ]Resultados da otimização no python 
-- [ ]Tratamento de dados no Excel para otimização de cada cliente - fabrica
-- [ ]Cálculo do custo otimizado de cada fábrica - cliente
-- [ ]Exportação dos dados no Power BI 
-- [ ]Tratamento de dados para a visualização da otimização 
-- [ ]Comparação da otimização com as rotas normais no bi 
+- [ ] Resultados da otimização no python 
+- [ ] Tratamento de dados no Excel para otimização de cada cliente - fabrica
+- [ ] Cálculo do custo otimizado de cada fábrica - cliente
+- [ ] Exportação dos dados no Power BI 
+- [ ] Tratamento de dados para a visualização da otimização 
+- [ ] Comparação da otimização com as rotas normais no bi 
 - [ ] Criação e modelagem de banco de dados do SQL
 - [ ] Estrutura do banco de dados
 - [ ] Integração da base de dados SQL E Power BI
@@ -177,7 +177,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Documentação do código de Python
 - [ ] Visualizações Gráficos dos resultados
 - [ ] Atualização do Github 
-- [ ]Documentação no Github
+- [ ] Documentação no Github
 - [ ] Vídeo 
 - [ ] Relatório
 
