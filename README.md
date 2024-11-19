@@ -147,37 +147,37 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [x] conversión de dados ao formato correto, colunas agregadas e índice para cada cliente
 - [x] Tratamento de dados no Excel para cada cliente e fábrica
 - [ ] Cálculo dos custos médios para cada fábrica e cliente
-- [ ] Formato em python para a otimização
-- [ ] Cálculo de cada xj
-- [ ] Restrições de capacidade 
-- [ ] Restrições de demanda
+- [x] Formato em python para a otimização
+- [x] Cálculo de cada xj
+- [x] Restrições de capacidade 
+- [x] Restrições de demanda
 - [ ] Tratamento de dados em MySql
 - [ ] Correção de datas
 - [ ] Correção FOB/CIF
 - [ ] Correção de capacidade transp veículos p12 e p24 
 - [ ] Conexão de banco de dados ao BI
-- [ ] fórmula pra calcular lead time
-- [ ] Atualização do Github 
-- [ ] Documentação no Github
-- [ ] Vídeo 
+- [x] fórmula pra calcular lead time
+- [x] Atualização do Github 
+- [x] Documentação no Github
+- [x] Vídeo 
 - [ ] Relatório
       
 ## Sprint 3.
-- [ ] Resultados da otimização no python 
-- [ ] Tratamento de dados no Excel para otimização de cada cliente - fabrica
-- [ ] Cálculo do custo otimizado de cada fábrica - cliente
-- [ ] Exportação dos dados no Power BI 
-- [ ] Tratamento de dados para a visualização da otimização 
-- [ ] Comparação da otimização com as rotas normais no bi 
-- [ ] Criação e modelagem de banco de dados do SQL
-- [ ] Estrutura do banco de dados
-- [ ] Integração da base de dados SQL E Power BI
-- [ ] Visão Geral das atividades de cada veículo
-- [ ] Aplicação do Método de Transportes e Otimização em Python
-- [ ] Documentação do código de Python
-- [ ] Visualizações Gráficos dos resultados
-- [ ] Atualização do Github 
-- [ ] Documentação no Github
+- [x] Resultados da otimização no python 
+- [x] Tratamento de dados no Excel para otimização de cada cliente - fabrica
+- [x] Cálculo do custo otimizado de cada fábrica - cliente
+- [x] Exportação dos dados no Power BI 
+- [x] Tratamento de dados para a visualização da otimização 
+- [x] Comparação da otimização com as rotas normais no bi 
+- [x] Criação e modelagem de banco de dados do SQL
+- [x] Estrutura do banco de dados
+- [x] Integração da base de dados SQL E Power BI
+- [x] Visão Geral das atividades de cada veículo
+- [x] Aplicação do Método de Transportes e Otimização em Python
+- [x] Documentação do código de Python
+- [x] Visualizações Gráficos dos resultados
+- [x] Atualização do Github 
+- [x] Documentação no Github
 - [ ] Vídeo 
 - [ ] Relatório
 
