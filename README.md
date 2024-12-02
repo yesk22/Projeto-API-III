@@ -203,6 +203,10 @@ Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente
 Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores negociados com o cliente, de modo a Dashboard ser dinâmica e de fácil uso do cliente.
 
 [**Link Vídeo MVP**](https://fatecspgov-my.sharepoint.com/:v:/g/personal/cleocirene_fonseca_fatec_sp_gov_br/EYxYWa-rxDhFmADJWf0BONwB6-x8BynlxS-PpCBH8_qbkA?e=NV7FM0)
+
+# MVP 3°Sprint (Minimum Viable Product)
+
+Com a 3°Sprint buscamos entregar os dados disponibilizados pelo cliente em um dashboard onde se pode ver a visualizacao do Power BI com a otimização em Python das rotas.
   
 # Competências desenvolvidas
 
