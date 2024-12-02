@@ -221,8 +221,8 @@ Com a 3°Sprint buscamos entregar os dados disponibilizados pelo cliente em um d
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Scrum Master | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Prodct Owner | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
@@ -235,8 +235,8 @@ Com a 3°Sprint buscamos entregar os dados disponibilizados pelo cliente em um d
 | Habilidades          | Classificação            |
 |----------------------|--------------------------|
 | Adaptabilidade       | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração          | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Comunicação          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade         | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Entrega de Resultados| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração          | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação          | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia            | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade         | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Entrega de Resultados| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
