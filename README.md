@@ -207,7 +207,9 @@ Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores nego
 # MVP 3°Sprint (Minimum Viable Product)
 
 Com a 3°Sprint buscamos entregar os dados disponibilizados pelo cliente em um dashboard onde se pode ver a visualizacao do Power BI com a otimização em Python das rotas.
-  
+
+[**Link Vídeo MVP**](https://fatecspgov-my.sharepoint.com/:v:/g/personal/yesenia_alva_fatec_sp_gov_br/EUYArDZEuXxErE6sPXTiLecBj46cL4cHX9v3Gne_AcX6Pw?e=dfwHQL)
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
